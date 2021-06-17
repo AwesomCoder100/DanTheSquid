@@ -16,4 +16,4 @@ good luck
 dash is op
 
 
-Play Here :
+Play Here : https://awesomcoder100.github.io/DanTheSquid/
